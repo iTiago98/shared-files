@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Sets the windows folder as home and moves to it
+
+export HOME=/mnt/c/debian_files
+cd
