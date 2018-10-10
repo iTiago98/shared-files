@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Sets the debian homefolder as home and moves to it
+
+export HOME=/home/itiago98
+cd
