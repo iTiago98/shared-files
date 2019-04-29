@@ -1,0 +1,97 @@
+1 [SOI:242] Anguished Unmaking
+1 [AKH:2] Anointed Procession
+1 [WWK:49] Anowon, the Ruin Sage
+1 [ZEN:211] Arid Mesa
+1 [3ED:282] Badlands
+1 [ZEN:196] Blade of the Bloodchief
+1 [AVR:86] Blood Artist
+1 [RNA:245] Blood Crypt
+1 [ZEN:81] Blood Tribute
+1 [ZEN:83] Bloodghast
+1 [ISD:90] Bloodline Keeper
+1 [KTK:230] Bloodstained Mire
+1 [C18:14] Bloodtracker
+1 [GTC:148] Boros Charm
+1 [RAV:255] Boros Signet
+1 [M11:87] Captivating Vampire
+1 [AVR:226] Cavern of Souls
+1 [ORI:245] Caves of Koilos
+1 [RIX:64] Champion of Dusk
+1 [GRN:233] Chromatic Lantern
+1 [8ED:322] City of Brass
+1 [M19:9] Cleansing Nova
+1 [C18:240] Command Tower
+1 [KTK:171] Crackling Doom
+1 [3ED:105] Demonic Tutor
+1 [M14:208] Door of Destinies
+1 [XLN:252] Dragonskull Summit
+1 [BFZ:109] Drana, Liberator of Malakir
+1 [RIX:70] Dusk Legion Zealot
+1 [RIX:157] Elenda, the Dusk Rose
+1 [6ED:19] Enlightened Tutor
+1 [SOI:155] Falkenrath Gorger
+1 [EVE:176] Fetid Heath
+1 [KTK:233] Flooded Strand
+1 [RIX:9] Forerunner of the Legion
+1 [AER:61] Gifted Aetherborn
+1 [RNA:248] Godless Shrine
+1 [SHM:272] Graven Cairns
+1 [SOI:118] Indulgent Aristocrat
+1 [DOM:241] Isolated Chapel
+1 [WWK:59] Kalastria Highborn
+1 [OGW:86] Kalitas, Traitor of Ghet
+1 [RIX:163] Legion Lieutenant
+1 [XLN:22] Legion's Landing
+1 [BBD:82] Luxury Suite
+1 [ZEN:100] Malakir Bloodwitch
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [XLN:24] Mavren Fein, Dusk Apostle
+1 [GTC:177] Merciless Eviction
+1 [WAR:259] Mountain
+1 [C17:19] New Blood
+1 [KTK:237] Nomad Outpost
+1 [ISD:215] Olivia Voldaren
+1 [SOI:127] Olivia's Bloodsworn
+1 [GPT:155] Orzhov Signet
+1 [C17:56] Path of Ancestry
+1 [CON:15] Path to Exile
+1 [C17:20] Patron of the Vein
+1 [9ED:152] Phyrexian Arena
+1 [RNA:194] Pitiless Pontiff
+2 [WAR:250] Plains
+1 [3ED:284] Plateau
+1 [KTK:239] Polluted Delta
+1 [DIS:165] Rakdos Signet
+1 [ISD:158] Rakish Heir
+1 [GRN:254] Sacred Foundry
+1 [XLN:120] Sanctum Seeker
+1 [3ED:286] Scrubland
+1 [MOR:104] Shared Animosity
+1 [DST:140] Skullclamp
+1 [RNA:22] Smothering Tithe
+1 [3ED:274] Sol Ring
+1 [DKA:142] Sorin, Lord of Innistrad
+1 [SOI:184] Stensia Masquerade
+1 [DKA:143] Stromkirk Captain
+1 [ISD:164] Stromkirk Noble
+1 [10E:359] Sulfurous Springs
+5 [WAR:256] Swamp
+1 [ICE:54] Swords to Plowshares
+1 [C17:8] Teferi's Protection
+1 [RIX:88] Twilight Prophet
+1 [XLN:258] Unclaimed Territory
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [ZEN:114] Vampire Hexmage
+1 [M13:112] Vampire Nighthawk
+1 [M13:113] Vampire Nocturnus
+1 [6ED:161] Vampiric Tutor
+1 [XLN:251] Vanquisher's Banner
+1 [ZEN:229] Verdant Catacombs
+1 [APC:126] Vindicate
+1 [M11:120] Viscera Seer
+1 [KTK:249] Wooded Foothills
+1 [AER:74] Yahenni, Undying Partisan
+SB: 1 [C17:36] Edgar Markov
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([ZEN:196],[RAV:255],[GRN:233],[M14:208],[GPT:155],[DIS:165],[DST:140],[3ED:274],[XLN:251])([WWK:49],[AVR:86],[ZEN:83],[ISD:90],[C18:14],[M11:87],[RIX:64],[BFZ:109],[RIX:70],[RIX:157],[SOI:155],[RIX:9],[AER:61],[SOI:118],[WWK:59],[OGW:86],[RIX:163],[ZEN:100],[XLN:24],[ISD:215],[SOI:127],[C17:20],[RNA:194],[ISD:158],[XLN:120],[DKA:143],[ISD:164],[RIX:88],[ZEN:114],[M13:112],[M13:113],[M11:120],[AER:74])([AKH:2],[XLN:22],[9ED:152],[MOR:104],[RNA:22],[SOI:184])([SOI:242],[GTC:148],[KTK:171],[6ED:19],[CON:15],[ICE:54],[C17:8],[6ED:161])([ZEN:211],[3ED:282],[RNA:245],[KTK:230],[AVR:226],[ORI:245],[8ED:322],[C18:240],[XLN:252],[EVE:176],[KTK:233],[RNA:248],[SHM:272],[DOM:241],[BBD:82],[JOU:163],[ZEN:219],[WAR:259],[KTK:237],[C17:56],[WAR:250],[WAR:250],[3ED:284],[KTK:239],[GRN:254],[3ED:286],[10E:359],[WAR:256],[WAR:256],[WAR:256],[WAR:256],[WAR:256],[XLN:258],[M15:248],[ZEN:229],[KTK:249])([DKA:142])([ZEN:81],[M19:9],[3ED:105],[GTC:177],[C17:19],[APC:126])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C17:36])

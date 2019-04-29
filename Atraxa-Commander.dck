@@ -1,0 +1,90 @@
+1 [M15:44] Aetherspouts
+1 [M15:1] Ajani Steadfast
+1 [ONS:2] Akroma's Vengeance
+1 [SOI:242] Anguished Unmaking
+1 [C15:32] Arachnogenesis
+1 [ALA:220] Arcane Sanctum
+1 [ALA:221] Bant Panorama
+1 [3ED:283] Bayou
+1 [RNA:246] Breeding Pool
+1 [NPH:53] Caress of Phyrexia
+1 [GRN:233] Chromatic Lantern
+1 [FUT:161] Coalition Relic
+1 [C14:4] Comeuppance
+1 [C18:240] Command Tower
+1 [STH:104] Constant Mists
+1 [RTR:35] Cyclonic Rift
+1 [PLC:85] Damnation
+1 [M14:207] Darksteel Ingot
+1 [RAV:158] Doubling Season
+1 [XLN:253] Drowned Catacomb
+1 [ALA:9] Elspeth, Knight-Errant
+1 [THS:9] Elspeth, Sun's Champion
+1 [ALA:223] Esper Panorama
+1 [10E:83] Evacuation
+1 [WWK:123] Everflowing Chalice
+1 [CON:142] Exotic Orchard
+1 [M13:170] Farseek
+1 [9ED:297] Fellwar Stone
+7 [WAR:262] Forest
+1 [M11:175] Garruk Wildspeaker
+1 [M15:210] Garruk, Apex Predator
+1 [CHK:10] Ghostly Prison
+1 [EVE:152] Gilder Bairn
+1 [RNA:248] Godless Shrine
+1 [RNA:251] Hallowed Fountain
+1 [TMP:24] Humility
+1 [SOM:67] Ichor Rats
+3 [WAR:253] Island
+1 [DOM:241] Isolated Chapel
+1 [M11:58] Jace Beleren
+1 [RTR:44] Jace, Architect of Thought
+1 [BNG:149] Kiora, the Crashing Wave
+1 [NEM:141] Kor Haven
+1 [JUD:141] Krosan Verge
+1 [M15:103] Liliana Vess
+1 [ZEN:25] Luminarch Ascension
+1 [DRK:117] Maze of Ith
+1 [GTC:177] Merciless Eviction
+1 [BBD:122] Mystic Confluence
+1 [M11:226] Mystifying Maze
+1 [DTK:225] Narset Transcendent
+1 [5ED:316] Nature's Lore
+1 [5ED:391] Nevinyrral's Disk
+1 [NPH:17] Norn's Annex
+1 [OGW:30] Oath of Gideon
+1 [OGW:140] Oath of Nissa
+1 [KTK:238] Opulent Palace
+1 [GRN:253] Overgrown Tomb
+1 [APC:114] Pernicious Deed
+3 [WAR:250] Plains
+1 [SHM:278] Reflecting Pool
+1 [LRW:259] Rings of Brighthearth
+1 [KTK:241] Sandsteppe Citadel
+1 [SHM:50] Savor the Moment
+1 [ALA:229] Seaside Citadel
+1 [RAV:281] Selesnya Sanctuary
+1 [3ED:274] Sol Ring
+1 [M12:217] Solemn Simulacrum
+1 [SOI:251] Sorin, Grim Nemesis
+1 [RTR:201] Supreme Verdict
+3 [WAR:256] Swamp
+1 [SOM:80] Tainted Strike
+1 [C14:19] Teferi, Temporal Archmage
+1 [GRN:258] Temple Garden
+1 [WAR:32] Teyo, the Shieldmage
+1 [ALA:60] Tezzeret the Seeker
+1 [M15:215] The Chain Veil
+1 [WAR:37] The Wanderer
+1 [ME3:135] Three Visits
+1 [M10:75] Time Warp
+1 [NPH:162] Torpor Orb
+1 [FRF:1] Ugin, the Spirit Dragon
+1 [KTK:210] Utter End
+1 [RTR:208] Vraska the Unseen
+1 [ARB:129] Wargate
+1 [GRN:259] Watery Grave
+1 [10E:61] Wrath of God
+SB: 1 [CM2:10] Atraxa, Praetors' Voice
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([M12:217])([GRN:233],[FUT:161],[M14:207],[WWK:123],[9ED:297],[5ED:391],[NPH:17],[LRW:259],[3ED:274],[M15:215],[NPH:162])([EVE:152],[SOM:67])([RAV:158],[CHK:10],[TMP:24],[ZEN:25],[OGW:30],[OGW:140],[APC:114])([M15:44],[SOI:242],[C15:32],[C14:4],[STH:104],[RTR:35],[10E:83],[BBD:122],[SOM:80],[KTK:210])([ALA:220],[ALA:221],[3ED:283],[RNA:246],[C18:240],[XLN:253],[ALA:223],[CON:142],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[RNA:248],[RNA:251],[WAR:253],[WAR:253],[WAR:253],[DOM:241],[NEM:141],[JUD:141],[DRK:117],[M11:226],[KTK:238],[GRN:253],[WAR:250],[WAR:250],[WAR:250],[SHM:278],[KTK:241],[ALA:229],[RAV:281],[WAR:256],[WAR:256],[WAR:256],[GRN:258],[GRN:259])([M15:1],[ALA:9],[THS:9],[M11:175],[M15:210],[M11:58],[RTR:44],[BNG:149],[M15:103],[DTK:225],[SOI:251],[C14:19],[WAR:32],[ALA:60],[WAR:37],[FRF:1],[RTR:208])([ONS:2],[NPH:53],[PLC:85],[M13:170],[GTC:177],[5ED:316],[SHM:50],[RTR:201],[ME3:135],[M10:75],[ARB:129],[10E:61])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([CM2:10])

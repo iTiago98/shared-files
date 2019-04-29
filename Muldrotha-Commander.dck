@@ -1,0 +1,81 @@
+1 [M13:159] Acidic Slime
+1 [5ED:140] Animate Dead
+1 [WAR:228] Ashiok, Dream Render
+1 [ONS:312] Barren Moor
+1 [BFZ:233] Blighted Woodland
+1 [WWK:132] Bojuka Bog
+1 [ODY:118] Buried Alive
+1 [THS:213] Burnished Hart
+1 [5ED:281] Carapace
+1 [ORI:170] Caustic Caterpillar
+1 [DIS:107] Coiling Oracle
+1 [C18:240] Command Tower
+1 [C18:200] Commander's Sphere
+1 [ALA:68] Corpse Connoisseur
+1 [M11:168] Cultivate
+1 [FUT:169] Dakmor Salvage
+1 [RTR:213] Deathrite Shaman
+1 [M14:209] Elixir of Immortality
+1 [5DN:86] Eternal Witness
+1 [RIX:186] Evolving Wilds
+1 [ALA:75] Executioner's Capsule
+1 [SHM:113] Farhaven Elf
+1 [ORI:98] Fleshbag Marauder
+9 [WAR:262] Forest
+1 [ISD:240] Ghost Quarter
+1 [RTR:165] Grisly Salvage
+1 [ZEN:165] Harrow
+7 [WAR:253] Island
+1 [GRN:180] Izoni, Thousand-Eyed
+1 [WAR:54] Jace, Wielder of Mysteries
+1 [WAR:94] Kaya's Ghostform
+1 [ONS:320] Lonely Sandbar
+1 [GRN:190] Molderhulk
+1 [LRW:76] Mulldrifter
+1 [C18:269] Myriad Landscape
+1 [ICE:87] Mystic Remora
+1 [5ED:391] Nevinyrral's Disk
+1 [THS:98] Nighthowler
+1 [SOM:187] Nihil Spellbomb
+1 [JOU:153] Nyx Weaver
+1 [KTK:238] Opulent Palace
+1 [APC:114] Pernicious Deed
+1 [KLD:227] Perpetual Timepiece
+1 [GRN:82] Plaguecrafter
+1 [RNA:195] Prime Speaker Vannifar
+1 [DIS:90] Protean Hulk
+1 [DGM:93] Putrefy
+1 [HOU:129] Ramunap Excavator
+1 [RIX:82] Ravenous Chupacabra
+1 [CHK:239] Sakura-Tribe Elder
+1 [M15:198] Satyr Wayfinder
+1 [DIS:53] Seal of Doom
+1 [PLC:153] Seal of Primordium
+1 [NEM:42] Seal of Removal
+1 [DKA:48] Secrets of the Dead
+1 [LRW:139] Shriekmaw
+1 [KTK:199] Sidisi, Brood Tyrant
+1 [XLN:79] Siren Stormtamer
+1 [DST:140] Skullclamp
+1 [3ED:274] Sol Ring
+1 [EMN:171] Splendid Reclamation
+1 [PCY:126] Spore Frog
+1 [M19:121] Stitcher's Supplier
+1 [KTK:203] Sultai Ascendancy
+1 [KTK:204] Sultai Charm
+8 [WAR:256] Swamp
+1 [M12:219] Swiftfoot Boots
+1 [M11:229] Terramorphic Expanse
+1 [SOI:245] The Gitrog Monster
+1 [ONS:326] Tranquil Thicket
+1 [GRN:211] Underrealm Lich
+1 [SOI:237] Vessel of Nascency
+1 [USG:166] Victimize
+1 [5DN:165] Wayfarer's Bauble
+1 [JUD:54] Wonder
+1 [9ED:283] Wood Elves
+1 [RIX:151] World Shaper
+1 [EVE:131] Worm Harvest
+SB: 1 [DOM:199] Muldrotha, the Gravetide
+LAYOUT MAIN:(1,9)(CARD_TYPE,false,50)|([THS:213])([C18:200],[M14:209],[ALA:75],[5ED:391],[SOM:187],[KLD:227],[DST:140],[3ED:274],[M12:219],[5DN:165])([THS:98],[JOU:153])([M13:159],[ORI:170],[DIS:107],[ALA:68],[RTR:213],[5DN:86],[SHM:113],[ORI:98],[GRN:180],[GRN:190],[LRW:76],[GRN:82],[RNA:195],[DIS:90],[HOU:129],[RIX:82],[CHK:239],[M15:198],[LRW:139],[KTK:199],[XLN:79],[PCY:126],[M19:121],[SOI:245],[GRN:211],[JUD:54],[9ED:283],[RIX:151])([5ED:140],[5ED:281],[WAR:94],[ICE:87],[APC:114],[DIS:53],[PLC:153],[NEM:42],[DKA:48],[KTK:203],[SOI:237])([RTR:165],[ZEN:165],[DGM:93],[KTK:204])([ONS:312],[BFZ:233],[WWK:132],[C18:240],[FUT:169],[RIX:186],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[WAR:262],[ISD:240],[WAR:253],[WAR:253],[WAR:253],[WAR:253],[WAR:253],[WAR:253],[WAR:253],[ONS:320],[C18:269],[KTK:238],[WAR:256],[WAR:256],[WAR:256],[WAR:256],[WAR:256],[WAR:256],[WAR:256],[WAR:256],[M11:229],[ONS:326])([WAR:228],[WAR:54])([ODY:118],[M11:168],[EMN:171],[USG:166],[EVE:131])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([DOM:199])
