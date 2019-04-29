@@ -1,0 +1,93 @@
+1 [C17:51] Hammer of Nazahn
+1 [NPH:20] Puresteel Paladin
+1 [AER:23] Sram, Senior Edificer
+1 [GRN:123] Beast Whisperer
+1 [DST:6] Leonin Shikari
+1 [ARC:1] Leonin Abunas
+1 [MM2:209] Etched Champion
+1 [MM2:19] Indomitable Archangel
+1 [VMA:281] Skullclamp
+1 [ISD:21] Mentor of the Meek
+1 [FRF:141] Temur Sabertooth
+1 [MMA:216] Sword of Fire and Ice
+1 [DOM:12] Danitha Capashen, Paragon
+1 [C17:153] Jedit Ojanen of Efrava
+1 [SOM:12] Kemba, Kha Regent
+1 [ORI:240] Sword of the Animist
+1 [EMN:41] Sigarda's Aid
+1 [10E:332] Loxodon Warhammer
+1 [MM2:36] Taj-Nar Swordsmith
+1 [ARB:65] Behemoth Sledge
+1 [A25:234] Swiftfoot Boots
+1 [ARC:110] Lightning Greaves
+1 [PPRO:2008] Mirari's Wake
+1 [OGW:147] Zendikar Resurgent
+1 [AER:162] Lifecrafter's Bestiary
+1 [C17:43] Mirri, Weatherlight Duelist
+1 [5DN:12] Raksha Golden Cub
+1 [C17:33] Qasali Slingers
+1 [PUMA:U16] Eternal Witness
+1 [C16:51] Armory Automaton
+1 [BNG:5] Brimaz, King of Oreskos
+1 [MRD:4] Auriok Steelshaper
+1 [C17:202] Argentum Armor
+1 [C17:2] Balan, Wandering Knight
+1 [DOM:211] Blackblade Reforged
+1 [C17:214] Hero's Blade
+1 [DOM:217] Helm of the Host
+1 [AER:160] Inspiring Statuary
+1 [DOM:35] Shalai, Voice of Plenty
+1 [C18:222] Sol Ring
+1 [C14:57] Masterwork of Ingenuity
+1 [GK1:123] Selesnya Signet
+1 [BFZ:223] Hedron Archive
+1 [MM2:15] Dispatch
+1 [AER:109] Heroic Intervention
+1 [BBD:110] Swords to Plowshares
+1 [ARC:4] Path to Exile
+1 [ARC:59] Harmonize
+1 [CMA:20] Return to Dust
+1 [MBS:19] White Sun's Zenith
+1 [C16:44] Sylvan Reclamation
+1 [CNS:80] Rout
+1 [C17:59] Divine Reckoning
+1 [AER:123] Rishkar's Expertise
+1 [GRN:240] Selesnya Locket
+1 [DOM:214] Forebear's Blade
+1 [C16:280] Whispersilk Cloak
+1 [CM2:182] Commander's Sphere
+1 [C17:145] Abundance
+1 [M10:21] Open the Vaults
+1 [SOI:32] Open the Armory
+1 [AKH:24] Regal Caracal
+1 [UMA:171] Kodama's Reach
+1 [A25:165] Cultivate
+1 [MM2:241] Evolving Wilds
+1 [10E:360] Terramorphic Expanse
+1 [DGM:155] Selesnya Guildgate
+1 [M11:228] Sunpetal Grove
+1 [ARC:135] Tranquil Thicket
+1 [ARC:133] Secluded Steppe
+1 [AKH:247] Scattered Groves
+1 [KTK:231] Blossoming Sands
+1 [BFZ:234] Canopy Vista
+1 [SOI:274] Fortified Village
+1 [RAV:281] Selesnya Sanctuary
+1 [C18:269] Myriad Landscape
+1 [C17:56] Path of Ancestry
+1 [PUMA:U39] Stirring Wildwood
+1 [CMD:269] Command Tower
+1 [CM2:241] Buried Ruin
+1 [KLD:247] Inventors' Fair
+1 [RAV:284] Temple Garden
+1 [RTR:245] Rogue's Passage
+1 [ZEN:213] Emeria, the Sky Ruin
+6 [UST:212] Plains
+5 [UST:216] Forest
+1 [ARC:130] Mosswort Bridge
+1 [LRW:281] Windbrisk Heights
+1 [HOP:130] Ancient Den
+1 [HOP:140] Tree of Tales
+SB: 1 [C17:44] Nazahn, Revered Bladesmith
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([C16:51],[MM2:209])([HOP:130],[HOP:140])([C17:202],[ARB:65],[DOM:211],[CM2:182],[DOM:214],[C17:51],[BFZ:223],[DOM:217],[C17:214],[AER:160],[AER:162],[ARC:110],[10E:332],[C14:57],[GRN:240],[GK1:123],[VMA:281],[C18:222],[A25:234],[MMA:216],[ORI:240],[C16:280])([MRD:4],[C17:2],[GRN:123],[BNG:5],[DOM:12],[MM2:19],[C17:153],[SOM:12],[ARC:1],[DST:6],[ISD:21],[C17:43],[NPH:20],[C17:33],[5DN:12],[AKH:24],[DOM:35],[AER:23],[MM2:36],[FRF:141],[PUMA:U16])([C17:145],[PPRO:2008],[EMN:41],[OGW:147])([MM2:15],[AER:109],[ARC:4],[CMA:20],[BBD:110],[C16:44],[MBS:19])([KTK:231],[CM2:241],[BFZ:234],[CMD:269],[ZEN:213],[MM2:241],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[SOI:274],[KLD:247],[ARC:130],[C18:269],[C17:56],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[RTR:245],[AKH:247],[ARC:133],[DGM:155],[RAV:281],[M11:228],[RAV:284],[10E:360],[ARC:135],[LRW:281],[PUMA:U39])([A25:165],[C17:59],[ARC:59],[UMA:171],[SOI:32],[M10:21],[AER:123],[CNS:80])
+LAYOUT SIDEBOARD:(1,1)(CMC,false,50)|([C17:44])
