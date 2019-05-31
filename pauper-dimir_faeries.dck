@@ -1,0 +1,25 @@
+4 [ORI:57] Faerie Miscreant
+4 [MMA:65] Spellstutter Sprite
+4 [PC2:21] Ninja of the Deep Hours
+4 [A25:46] Brainstorm
+3 [A25:87] Disfigure
+4 [M10:68] Ponder
+4 [A25:40] Accumulated Knowledge
+4 [DD3JVC:24] Counterspell
+4 [A25:236] Ash Barrens
+4 [MM2:241] Evolving Wilds
+8 [UST:213] Island
+4 [UST:214] Swamp
+2 [ULG:43] Snap
+2 [UMA:102] Gurmag Angler
+3 [DDD:53] Snuff Out
+1 [WAR:101] Ob Nixilis's Cruelty
+1 [SHM:139] Curse of Chains
+SB: 3 [EMA:86] Duress
+SB: 3 [MM2:95] Shrivel
+SB: 1 [SHM:139] Curse of Chains
+SB: 2 [WAR:101] Ob Nixilis's Cruelty
+SB: 2 [ZEN:67] Spell Pierce
+SB: 3 [DDH:61] Recoil
+LAYOUT MAIN:(1,5)(CMC,false,38)|([A25:236],[A25:236],[A25:236],[A25:236],[MM2:241],[MM2:241],[MM2:241],[MM2:241],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:214],[UST:214],[UST:214],[UST:214])([ORI:57],[ORI:57],[ORI:57],[ORI:57],[A25:46],[A25:46],[A25:46],[A25:46],[A25:87],[A25:87],[A25:87],[M10:68],[M10:68],[M10:68],[M10:68])([MMA:65],[MMA:65],[MMA:65],[MMA:65],[A25:40],[A25:40],[A25:40],[A25:40],[DD3JVC:24],[DD3JVC:24],[DD3JVC:24],[DD3JVC:24],[ULG:43],[ULG:43],[SHM:139])([PC2:21],[PC2:21],[PC2:21],[PC2:21],[DDD:53],[DDD:53],[DDD:53],[WAR:101])([UMA:102],[UMA:102])
+LAYOUT SIDEBOARD:(1,3)(CMC,false,50)|([EMA:86],[EMA:86],[EMA:86],[ZEN:67],[ZEN:67])([MM2:95],[MM2:95],[MM2:95],[SHM:139])([WAR:101],[WAR:101],[DDH:61],[DDH:61],[DDH:61])
